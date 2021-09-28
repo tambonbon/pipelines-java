@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tambonbon/FirstPipeline/_apis/build/status/tambonbon.pipelines-java?branchName=master)](https://dev.azure.com/tambonbon/FirstPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
